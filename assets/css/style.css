@@ -56,7 +56,7 @@ section{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg"); 
     background-size: cover;
     background-position: center;
 }
@@ -72,7 +72,8 @@ section{
     margin-left: 25px;
 }
 
-/* What is this P tag adjusting? Is it just adjusting all the font sizes throughout the page from this point down to be 16px? Strange but won't change at this moment... */
+/* <p> tag has been moved to closer to the  <p> in the main section.  */
+/* <p> tag adjusts things inside main, aside and footer, therefore is being place directly above all three */
 p {
     font-size: 16px;
 }
