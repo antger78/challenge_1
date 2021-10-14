@@ -9,7 +9,7 @@ The files in the github repository come together to form an interactive webpage 
 
 # Screenshots
 
-![Screenshots](assets\images\Screenshots of Deployment\Bottom.PNG)
+![Screenshots](./assets\images\Screenshots of Deployment\Bottom.PNG)
 
 # Link
 
