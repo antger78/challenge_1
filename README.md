@@ -9,7 +9,7 @@ The files in the github repository come together to form an interactive webpage 
 
 # Screenshots
 
-Screenshots are available in the screenshots directory location: challenge_1/assets/images/Screenshots of Deployment
+![Screenshots](assets\images\Screenshots of Deployment\Bottom.PNG)
 
 # Link
 

@@ -52,7 +52,8 @@ header nav ul li a {
 
 
 /* START HERO SECTION */
-section{
+/* changed this from section (which would adjust all subsequent sections), to a class entitled hero */
+.hero{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
