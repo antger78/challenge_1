@@ -11,9 +11,9 @@ The files in the github repository come together to form an interactive webpage 
 
 ![Screenshot1](https://github.com/antger78/challenge_1/blob/main/assets/images/Screenshots_of_Deployment/Top.PNG?raw=true)
 
-![Screenshot2](assets\images\Screenshots_of_Deployment\Middle.PNG)
+![Screenshot2](https://github.com/antger78/challenge_1/blob/main/assets/images/Screenshots_of_Deployment/Middle.PNG?raw=true)
 
-![Screenshot3](assets\images\Screenshots_of_Deployment\Bottom.PNG)
+![Screenshot3](https://github.com/antger78/challenge_1/blob/main/assets/images/Screenshots_of_Deployment/Bottom.PNG?raw=true)
 
 # Link
 
