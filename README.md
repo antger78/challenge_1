@@ -9,11 +9,11 @@ The files in the github repository come together to form an interactive webpage 
 
 # Screenshots
 
-![Screenshots](assets\images\Screenshots_of_Deployment\Top.PNG)
+![Screenshot1](assets\images\Screenshots_of_Deployment\Top.PNG)
 
-![Screenshots](assets\images\Screenshots_of_Deployment\Middle.PNG)
+![Screenshot2](assets\images\Screenshots_of_Deployment\Middle.PNG)
 
-![Screenshots](assets\images\Screenshots_of_Deployment\Bottom.PNG)
+![Screenshot3](assets\images\Screenshots_of_Deployment\Bottom.PNG)
 
 # Link
 
